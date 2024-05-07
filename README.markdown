@@ -1,10 +1,10 @@
-# TODO: book title
+# The Complete Beginner's Guide to Audio Plug-in Development
 
-This is the source code that accompanies the book [TODO](https://theaudioprogrammer.com/TODO) by Matthijs Hollemans, available for purchase from [The Audio Programmer](https://theaudioprogrammer.com/TODO) as PDF and EPUB.
+This is the source code that accompanies the book [The Complete Beginner's Guide to Audio Plug-in Development](https://theaudioprogrammer.com/audio-plugin-guide) by Matthijs Hollemans, available for purchase from [The Audio Programmer](https://theaudioprogrammer.com/audio-plugin-guide) as PDF and EPUB.
 
 ![The book cover](book-cover.jpg)
 
-In this 475-page book you'll learn how to make an audio plug-in, also known as a VST — even if you have never written a line of computer code in your life.
+In this 470-page book you'll learn how to make an audio plug-in, also known as a VST — even if you have never written a line of computer code in your life.
 
 This is a tutorial-style book that goes step-by-step and explains everything you need to know along the way. It is written for complete beginners. No prior programming knowledge is required and there is not a lot of math involved.
 
