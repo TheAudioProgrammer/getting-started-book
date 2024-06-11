@@ -1,6 +1,6 @@
 # The Complete Beginner's Guide to Audio Plug-in Development
 
-This is the source code that accompanies the book [The Complete Beginner's Guide to Audio Plug-in Development](https://theaudioprogrammer.com/audio-plugin-guide) by Matthijs Hollemans, available for purchase from [The Audio Programmer](https://theaudioprogrammer.com/audio-plugin-guide) as PDF and EPUB.
+This is the source code that accompanies the book [The Complete Beginner's Guide to Audio Plug-in Development](https://theaudioprogrammer.com/learn/beginners-plugin-book) by Matthijs Hollemans, available for purchase from [The Audio Programmer](https://theaudioprogrammer.com/learn/beginners-plugin-book) as PDF and EPUB.
 
 ![The book cover](book-cover.jpg)
 
