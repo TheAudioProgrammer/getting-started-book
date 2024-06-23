@@ -2,6 +2,10 @@
 
 This is a list of known mistakes and bugs in the book *The Complete Beginner's Guide to Audio Plug-in Development* and/or the accompanying source code.
 
+## Text missing from chapters 8 and 11 (EPUB)
+
+Chapters 8 and 11 of the EPUB version of the book may show an error message in Apple Books and other e-readers. The text of these chapters is incomplete due to this error. Please [contact The Audio Programmer](https://www.theaudioprogrammer.com/contact) to download a fixed version of the EPUB file. (The PDF version does not have this error.)
+
 ## Xcode error: A build only device cannot be used to run this target
 
 You may get the following error message from Xcode:
