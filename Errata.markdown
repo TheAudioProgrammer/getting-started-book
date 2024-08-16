@@ -18,6 +18,16 @@ To fix this, in AudioPluginHost go to the **Options** menu in the menu bar and s
 
 Additionally, you can follow the instructions from the next section, *Playing audio files (Windows)*, and use the AudioFilePlayer project to play sounds.
 
+## Chapter 8, page 170: Missing line of code
+
+In the section *Improving the class*, at the top of page 170 in the PDF and print versions of the book, the reader is asked to change the code in **Parameters.h**. In the provided source code the following line has gone missing:
+
+```c++
+const juce::ParameterID gainParamID { "gain", 1 };
+```
+
+This line was first added on page 167 and it reappears on page 174. You're not supposed to delete this line. It is a mistake that this line is not included in the code on page 170.
+
 ## Xcode error: A build only device cannot be used to run this target
 
 You may get the following error message from Xcode:
