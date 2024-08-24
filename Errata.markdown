@@ -35,3 +35,11 @@ You may get the following error message from Xcode:
 ![](Images/BuildOnlyDeviceError.png)
 
 This happens when the run destination at the top of the Xcode window is set to **Any Mac**. When Any Mac is selected, Xcode only lets you build the project but not run it. To fix this, click on Any Mac and change this setting to **My Mac**.
+
+## Xcode error: Command PhaseScriptExecution failed with a nonzero exit code
+
+Xcode may give the error "Command PhaseScriptExecution failed with a nonzero exit code" with an additional message saying, "resource fork, Finder information, or similar detritus not allowed".
+
+This happens when the project folder is placed in the iCloud directory. Apparently the iCloud folder has extra files in it that break the building process.
+
+Try moving the folder to the Desktop. Then delete the **Builds** folder and export again from Projucer. Now it should build without issues.
